@@ -10,6 +10,6 @@
 
 **Leaderboard (v1, 2026-09-03).** See `leaderboard.json`. Independent baselines: nearest training sounding 18.9 m; SRTM15+ gravity 18.9 m; gravity trend + natural-neighbour residual 16.8 m; trend + inverse-distance residual 16.2 m; SeabedNet v5 small 13.3 m (74% inside 1σ). GEBCO scores 6.2 m but contains the test soundings through IBCAO v5 and is listed as a reference, not a competitor.
 
-**Submit.** Open an issue or pull request on github.com/girardemilio3-svg/seabednet-validation with your `score.py` output and a one-paragraph method description; we add it to the leaderboard as submitted, with the independence flag you declare.
+**Submit.** Open an issue or pull request on github.com/girardemilio3-svg/seabednet with your `score.py` output and a one-paragraph method description; we add it to the leaderboard as submitted, with the independence flag you declare.
 
 **Citation.** Girard, E. (2026). NONNA-Temporal-Churchill v1: a temporal-holdout benchmark for bathymetric completion. SeabedNet, Montréal. Data: Canadian Hydrographic Service NONNA-100 (OGL-Canada); CHS Survey Index (DFO).

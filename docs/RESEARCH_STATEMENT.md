@@ -15,4 +15,4 @@
 
 **What I want to do next.** Fuse satellite-derived bathymetry (ICESat-2, Sentinel-2) into the shallow band where the archive and the mean model are weakest; extend the hindcast to the TSB's full occurrence record (74 groundings, 2000–2018) once released; and formalize the temporal benchmark as a community standard for bathymetric completion.
 
-**Links.** Atlas: https://girardemilio3-svg.github.io/churchill-corridor-atlas/ · Technical report: https://girardemilio3-svg.github.io/churchill-corridor-atlas/report/ · Code, results, benchmark: https://github.com/girardemilio3-svg/seabednet-validation
+**Links.** Atlas: https://girardemilio3-svg.github.io/churchill-corridor-atlas/ · Technical report: https://girardemilio3-svg.github.io/churchill-corridor-atlas/report/ · Code, results, benchmark: https://github.com/girardemilio3-svg/seabednet
