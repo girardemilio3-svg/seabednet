@@ -1,0 +1,126 @@
+{
+ "map": "national_v6_out",
+ "platforms_total": 82,
+ "platforms_kept": 44,
+ "unsounded_cells": 430464,
+ "all": {
+  "n": 430464,
+  "median_model": 8.55,
+  "median_nearest": 5.21,
+  "within5_model": 0.377,
+  "within5_nearest": 0.49,
+  "within10_model": 0.532,
+  "within10_nearest": 0.621,
+  "bias_model": -2.84
+ },
+ "by_depth": {
+  "0-20": {
+   "n": 35977,
+   "median_model": 769.5,
+   "median_nearest": 790.67,
+   "within5_model": 0.164,
+   "within5_nearest": 0.232,
+   "within10_model": 0.239,
+   "within10_nearest": 0.31,
+   "bias_model": -769.5
+  },
+  "20-50": {
+   "n": 64117,
+   "median_model": 7.16,
+   "median_nearest": 3.96,
+   "within5_model": 0.421,
+   "within5_nearest": 0.559,
+   "within10_model": 0.553,
+   "within10_nearest": 0.645,
+   "bias_model": -3.26
+  },
+  "50-200": {
+   "n": 234555,
+   "median_model": 5.52,
+   "median_nearest": 3.62,
+   "within5_model": 0.472,
+   "within5_nearest": 0.616,
+   "within10_model": 0.658,
+   "within10_nearest": 0.775,
+   "bias_model": -1.48
+  },
+  "200-5000": {
+   "n": 95401,
+   "median_model": 57.18,
+   "median_nearest": 52.05,
+   "within5_model": 0.198,
+   "within5_nearest": 0.231,
+   "within10_model": 0.318,
+   "within10_nearest": 0.344,
+   "bias_model": -12.22
+  }
+ },
+ "by_distance_km": {
+  "0-0.5": {
+   "n": 247655,
+   "median_model": 5.37,
+   "median_nearest": 3.07,
+   "within5_model": 0.48,
+   "within5_nearest": 0.685,
+   "within10_model": 0.66,
+   "within10_nearest": 0.83,
+   "bias_model": -1.75
+  },
+  "0.5-1": {
+   "n": 83455,
+   "median_model": 18.93,
+   "median_nearest": 8.38,
+   "within5_model": 0.294,
+   "within5_nearest": 0.378,
+   "within10_model": 0.418,
+   "within10_nearest": 0.534,
+   "bias_model": -3.35
+  },
+  "1-3": {
+   "n": 61709,
+   "median_model": 984.86,
+   "median_nearest": 965.41,
+   "within5_model": 0.135,
+   "within5_nearest": 0.11,
+   "within10_model": 0.213,
+   "within10_nearest": 0.188,
+   "bias_model": -984.86
+  },
+  "3-6": {
+   "n": 14239,
+   "median_model": 20.32,
+   "median_nearest": 53.12,
+   "within5_model": 0.228,
+   "within5_nearest": 0.109,
+   "within10_model": 0.357,
+   "within10_nearest": 0.205,
+   "bias_model": -7.74
+  }
+ },
+ "by_region": {
+  "BC": {
+   "n": 277872,
+   "median_model": 11.65,
+   "median_nearest": 11.33,
+   "within5_model": 0.331,
+   "within5_nearest": 0.394,
+   "within10_model": 0.474,
+   "within10_nearest": 0.49,
+   "bias_model": -7.03
+  },
+  "Atlantic": {
+   "n": 95231,
+   "median_model": 3.5,
+   "median_nearest": 3.44,
+   "within5_model": 0.632,
+   "within5_nearest": 0.663,
+   "within10_model": 0.85,
+   "within10_nearest": 0.862,
+   "bias_model": -1.05
+  },
+  "Arctic_Hudson": null
+ },
+ "sounded_noise_floor": {
+  "median_abs": 1.63
+ }
+}

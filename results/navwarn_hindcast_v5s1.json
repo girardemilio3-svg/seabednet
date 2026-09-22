@@ -1,0 +1,234 @@
+{
+ "summary": {
+  "all_scorable": {
+   "n": 1288,
+   "median": 53.4,
+   "ge90": 473,
+   "ge75": 567,
+   "p_ge90": 8.53625459810944e-145
+  },
+  "map_safe": {
+   "n": 107,
+   "median": 80.8,
+   "ge90": 38,
+   "ge75": 61,
+   "p_ge90": 1.1848294531479111e-12
+  },
+  "map_safe_blind": {
+   "n": 37,
+   "median": 75.4,
+   "ge90": 7,
+   "ge75": 19,
+   "p_ge90": 0.07108505827175729
+  },
+  "shallow_reported": {
+   "n": 357,
+   "median": 73.2,
+   "ge90": 160,
+   "ge75": 176,
+   "p_ge90": 2.043009766426838e-64
+  },
+  "shallow_reported_map_safe": {
+   "n": 13,
+   "median": 91.5,
+   "ge90": 8,
+   "ge75": 9,
+   "p_ge90": 8.090210800000003e-06
+  },
+  "shallow_reported_map_safe_blind": {
+   "n": 2,
+   "median": 89.35,
+   "ge90": 1,
+   "ge75": 2,
+   "p_ge90": 0.19000000000000003
+  },
+  "arctic": {
+   "n": 77,
+   "median": 90.6,
+   "ge90": 42,
+   "ge75": 56,
+   "p_ge90": 2.7507246538727956e-22
+  },
+  "arctic_map_safe": {
+   "n": 40,
+   "median": 73.65,
+   "ge90": 10,
+   "ge75": 19,
+   "p_ge90": 0.005063053657834403
+  },
+  "by_category": {
+   "Aids to Navigation (Other) Aids Mackie Rock port daybeacon": {
+    "n": 1,
+    "median": 8.5,
+    "ge90": 0,
+    "ge75": 0,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids 9 Feet Rock light buoy D2 LL 358.16": null,
+   "Buoys Aids Bad Rock light buoy QQ2 LL 140.5": {
+    "n": 1,
+    "median": 88.2,
+    "ge90": 0,
+    "ge75": 1,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids Big Shoal light buoy PFH2 LL 37.7": {
+    "n": 1,
+    "median": 86.4,
+    "ge90": 0,
+    "ge75": 1,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids Cary Rock light buoy JK3 LL 442.75": {
+    "n": 1,
+    "median": 93.2,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Cox Rock light buoy QE3 LL 145.82": null,
+   "Buoys Aids Dixon Rock light buoy C28 LL 699": null,
+   "Buoys Aids Ducie Rock light and bell buoy VD1 LL 116.5": {
+    "n": 1,
+    "median": 47.2,
+    "ge90": 0,
+    "ge75": 0,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids Frenchman Rock light buoy VV8 LL 610.5": {
+    "n": 1,
+    "median": 99.6,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Galloper Rock light and whistle buoy PR1 LL 66": null,
+   "Buoys Aids Gibraltor Rock light buoy PX2 LL 15.5": {
+    "n": 1,
+    "median": 97.3,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Gregory Rock light buoy PR3 LL 66.5": {
+    "n": 1,
+    "median": 96.7,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Grey River Rocks North Cardinal light and whistle buoy QGR LL 139.21": {
+    "n": 1,
+    "median": 92.7,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Halibut Rock West Cardinal light buoy QHR LL 173.12": {
+    "n": 1,
+    "median": 97.5,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Hatten Shoal light buoy NCH2 LL 284.8": null,
+   "Buoys Aids Lamb Rock North Cardinal light buoy MLR LL 7.4": {
+    "n": 1,
+    "median": 0.0,
+    "ge90": 0,
+    "ge75": 0,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids Laurier Rock light buoy KK61 LL 371": null,
+   "Buoys Aids Lee Rock green spar buoy V25": null,
+   "Buoys Aids Man of War Rock light buoy H1 LL 290": {
+    "n": 1,
+    "median": 64.3,
+    "ge90": 0,
+    "ge75": 0,
+    "p_ge90": 1.0
+   },
+   "Buoys Aids Net Rocks light buoy V23 LL 130.31": null,
+   "Buoys Aids Peter Point Shoal South Cardinal light buoy XWC LL 197.5": null,
+   "Buoys Aids Southwest Rock light buoy QS2 LL 140.7": {
+    "n": 1,
+    "median": 96.5,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Buoys Aids Stubbs Rock light buoy C40 LL 795.5": null,
+   "Buoys Aids Watch Rock North Cardinal light and whistle buoy QLB LL 138.5": {
+    "n": 1,
+    "median": 97.4,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Lights Aids Blackrock Point sector light LL 665.41": {
+    "n": 1,
+    "median": 82.2,
+    "ge90": 0,
+    "ge75": 1,
+    "p_ge90": 1.0
+   },
+   "Lights Aids Boundary Pass Shoal isolated danger light and bell buoy DB (U.S.) LL 264.5": null,
+   "Lights Aids Lord Rock (U.S.) LL 761": {
+    "n": 1,
+    "median": 86.2,
+    "ge90": 0,
+    "ge75": 1,
+    "p_ge90": 1.0
+   },
+   "Lights Aids Race Rocks light LL 189": null,
+   "Lights Aids Southeast Shoal light LL 597": null,
+   "RACON Aids Southeast Shoal light LL 597": null,
+   "Sandspit or Sandbar Change": {
+    "n": 1,
+    "median": 98.7,
+    "ge90": 1,
+    "ge75": 1,
+    "p_ge90": 0.1
+   },
+   "Shallow Depth Confirmed": {
+    "n": 28,
+    "median": 48.75,
+    "ge90": 1,
+    "ge75": 4,
+    "p_ge90": 0.947665236697264
+   },
+   "Shallow Depth Reported": {
+    "n": 41,
+    "median": 89.7,
+    "ge90": 19,
+    "ge75": 31,
+    "p_ge90": 2.74020046235558e-09
+   },
+   "Shoal": {
+    "n": 16,
+    "median": 62.95,
+    "ge90": 6,
+    "ge75": 8,
+    "p_ge90": 0.003296751440668301
+   },
+   "Submerged Object": {
+    "n": 2,
+    "median": 97.05,
+    "ge90": 2,
+    "ge75": 2,
+    "p_ge90": 0.010000000000000002
+   },
+   "Uncharted Rock": {
+    "n": 3,
+    "median": 87.9,
+    "ge90": 1,
+    "ge75": 3,
+    "p_ge90": 0.271
+   }
+  }
+ },
+ "n_points": 1558,
+ "n_in_blocks": 1541,
+ "source": "CCG NAVWARN search (nis.ccg-gcc.gc.ca), active notices 2026-09-06",
+ "hazard": "hazard_nat_v5s1 (NONNA 2026-08-29 snapshot)"
+}

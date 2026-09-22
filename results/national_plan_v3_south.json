@@ -1,0 +1,193 @@
+{
+ "method": "danger-report model (gradient boosting on hazard field + soundings + coast + elevation + imagery + radar + gravity; year-split validated AUC 0.93) applied on a 500 m grid to chart-safe water within 6 km of a sounding; boxes ranked by expected reported-danger area per ship-day",
+ "relevance": "within 30 km of the Churchill route or an NRCan shipping route / Arctic sea route, or 15 km of a sealift community; inland lakes excluded",
+ "top20": [
+  {
+   "lon": -62.0,
+   "lat": 45.0,
+   "area_km2": 214,
+   "cells": 733,
+   "expected_reports_km2": 38.0,
+   "ship_days": 5.3,
+   "reports_per_ship_day": 7.116
+  },
+  {
+   "lon": -64.0,
+   "lat": 44.5,
+   "area_km2": 86,
+   "cells": 291,
+   "expected_reports_km2": 13.13,
+   "ship_days": 2.2,
+   "reports_per_ship_day": 6.094
+  },
+  {
+   "lon": -132.5,
+   "lat": 53.5,
+   "area_km2": 134,
+   "cells": 657,
+   "expected_reports_km2": 17.28,
+   "ship_days": 3.4,
+   "reports_per_ship_day": 5.148
+  },
+  {
+   "lon": -64.5,
+   "lat": 44.5,
+   "area_km2": 79,
+   "cells": 266,
+   "expected_reports_km2": 8.39,
+   "ship_days": 2.0,
+   "reports_per_ship_day": 4.257
+  },
+  {
+   "lon": -54.0,
+   "lat": 47.0,
+   "area_km2": 215,
+   "cells": 799,
+   "expected_reports_km2": 20.81,
+   "ship_days": 5.4,
+   "reports_per_ship_day": 3.87
+  },
+  {
+   "lon": -67.5,
+   "lat": 45.0,
+   "area_km2": 40,
+   "cells": 139,
+   "expected_reports_km2": 3.89,
+   "ship_days": 1.0,
+   "reports_per_ship_day": 3.839
+  },
+  {
+   "lon": -56.5,
+   "lat": 52.5,
+   "area_km2": 46,
+   "cells": 213,
+   "expected_reports_km2": 4.25,
+   "ship_days": 1.1,
+   "reports_per_ship_day": 3.728
+  },
+  {
+   "lon": -59.0,
+   "lat": 51.0,
+   "area_km2": 161,
+   "cells": 699,
+   "expected_reports_km2": 14.11,
+   "ship_days": 4.0,
+   "reports_per_ship_day": 3.501
+  },
+  {
+   "lon": -132.5,
+   "lat": 53.0,
+   "area_km2": 128,
+   "cells": 610,
+   "expected_reports_km2": 10.86,
+   "ship_days": 3.2,
+   "reports_per_ship_day": 3.39
+  },
+  {
+   "lon": -133.0,
+   "lat": 53.5,
+   "area_km2": 78,
+   "cells": 377,
+   "expected_reports_km2": 6.09,
+   "ship_days": 1.9,
+   "reports_per_ship_day": 3.143
+  },
+  {
+   "lon": -61.5,
+   "lat": 45.5,
+   "area_km2": 92,
+   "cells": 322,
+   "expected_reports_km2": 7.12,
+   "ship_days": 2.3,
+   "reports_per_ship_day": 3.107
+  },
+  {
+   "lon": -55.0,
+   "lat": 49.0,
+   "area_km2": 225,
+   "cells": 912,
+   "expected_reports_km2": 15.63,
+   "ship_days": 5.6,
+   "reports_per_ship_day": 2.773
+  },
+  {
+   "lon": -54.5,
+   "lat": 49.0,
+   "area_km2": 90,
+   "cells": 365,
+   "expected_reports_km2": 6.17,
+   "ship_days": 2.2,
+   "reports_per_ship_day": 2.742
+  },
+  {
+   "lon": -58.5,
+   "lat": 54.0,
+   "area_km2": 235,
+   "cells": 1176,
+   "expected_reports_km2": 15.65,
+   "ship_days": 5.9,
+   "reports_per_ship_day": 2.661
+  },
+  {
+   "lon": -61.0,
+   "lat": 46.0,
+   "area_km2": 102,
+   "cells": 364,
+   "expected_reports_km2": 6.77,
+   "ship_days": 2.6,
+   "reports_per_ship_day": 2.649
+  },
+  {
+   "lon": -61.5,
+   "lat": 45.0,
+   "area_km2": 1155,
+   "cells": 3985,
+   "expected_reports_km2": 71.05,
+   "ship_days": 28.9,
+   "reports_per_ship_day": 2.46
+  },
+  {
+   "lon": -65.0,
+   "lat": 44.0,
+   "area_km2": 75,
+   "cells": 249,
+   "expected_reports_km2": 3.99,
+   "ship_days": 1.9,
+   "reports_per_ship_day": 2.127
+  },
+  {
+   "lon": -55.5,
+   "lat": 49.0,
+   "area_km2": 398,
+   "cells": 1608,
+   "expected_reports_km2": 21.01,
+   "ship_days": 9.9,
+   "reports_per_ship_day": 2.113
+  },
+  {
+   "lon": -67.0,
+   "lat": 45.0,
+   "area_km2": 278,
+   "cells": 954,
+   "expected_reports_km2": 14.51,
+   "ship_days": 6.9,
+   "reports_per_ship_day": 2.088
+  },
+  {
+   "lon": -65.5,
+   "lat": 43.0,
+   "area_km2": 2142,
+   "cells": 6915,
+   "expected_reports_km2": 108.98,
+   "ship_days": 53.5,
+   "reports_per_ship_day": 2.036
+  }
+ ],
+ "total": {
+  "area_km2": 5973,
+  "ship_days": 149,
+  "cost_low_MCAD": 16,
+  "cost_high_MCAD": 27
+ },
+ "n_boxes": 944
+}

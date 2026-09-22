@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "SeabedNet: model-completed bathymetry and shoal hazard for Canadian waters"
+message: "If you use this software, the benchmark or the results, please cite it."
+type: software
+authors:
+  - family-names: Girard
+    given-names: Emilio
+    city: Montréal
+    country: CA
+repository-code: "https://github.com/girardemilio3-svg/seabednet"
+url: "https://girardemilio3-svg.github.io/churchill-corridor-atlas/"
+abstract: >-
+  A masked-completion neural network that fills the gaps between published
+  soundings in Canadian waters with depth, calibrated uncertainty and
+  provenance, together with a shoal-hazard model, a reusable temporal
+  benchmark, and prospective forecasts sealed before their outcomes.
+keywords: [bathymetry, hydrography, Arctic, machine learning, uncertainty, Canada]
+license: MIT
+date-released: 2026-09-22

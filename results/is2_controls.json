@@ -1,0 +1,46 @@
+[
+ {
+  "site": "Lancaster Sound",
+  "lat": 74.2,
+  "lon": -85.0,
+  "chart_m": 400,
+  "photons": 778546,
+  "passes": 75
+ },
+ {
+  "site": "Beaufort slope",
+  "lat": 70.6,
+  "lon": -134.0,
+  "chart_m": 300,
+  "photons": 0
+ },
+ {
+  "site": "Davis Strait",
+  "lat": 66.0,
+  "lon": -58.0,
+  "chart_m": 600,
+  "photons": 0
+ },
+ {
+  "site": "Hudson Strait centre",
+  "lat": 62.3,
+  "lon": -70.5,
+  "chart_m": 300,
+  "photons": 771071,
+  "passes": 47
+ },
+ {
+  "site": "Baffin Bay",
+  "lat": 72.0,
+  "lon": -66.0,
+  "chart_m": 800,
+  "photons": 0
+ },
+ {
+  "site": "Foxe Channel",
+  "lat": 65.2,
+  "lon": -80.0,
+  "chart_m": 200,
+  "photons": 0
+ }
+]

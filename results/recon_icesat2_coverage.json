@@ -1,0 +1,362 @@
+[
+ {
+  "i": 0,
+  "region": "Beaufort Sea",
+  "lat": 69.46081,
+  "lon": -131.60416,
+  "shoal": 0.4,
+  "atl03_granules": 0,
+  "atl24_granules": 76
+ },
+ {
+  "i": 1,
+  "region": "Beaufort Sea",
+  "lat": 69.47142,
+  "lon": -131.80594,
+  "shoal": 1.0,
+  "atl03_granules": 0,
+  "atl24_granules": 69
+ },
+ {
+  "i": 2,
+  "region": "Beaufort Sea",
+  "lat": 69.48009,
+  "lon": -131.77849,
+  "shoal": -0.2,
+  "atl03_granules": 0,
+  "atl24_granules": 57
+ },
+ {
+  "i": 3,
+  "region": "Beaufort Sea",
+  "lat": 69.45455,
+  "lon": -131.91713,
+  "shoal": 0.9,
+  "atl03_granules": 0,
+  "atl24_granules": 49
+ },
+ {
+  "i": 4,
+  "region": "Hecate Strait",
+  "lat": 54.11699,
+  "lon": -132.37971,
+  "shoal": -0.6,
+  "atl03_granules": 0,
+  "atl24_granules": 35
+ },
+ {
+  "i": 5,
+  "region": "Beaufort Sea",
+  "lat": 69.45551,
+  "lon": -131.91438,
+  "shoal": 0.9,
+  "atl03_granules": 0,
+  "atl24_granules": 50
+ },
+ {
+  "i": 6,
+  "region": "Beaufort Sea",
+  "lat": 69.48972,
+  "lon": -131.46964,
+  "shoal": 0.8,
+  "atl03_granules": 0,
+  "atl24_granules": 40
+ },
+ {
+  "i": 7,
+  "region": "Hecate Strait",
+  "lat": 54.2063,
+  "lon": -131.65769,
+  "shoal": -0.3,
+  "atl03_granules": 0,
+  "atl24_granules": 30
+ },
+ {
+  "i": 8,
+  "region": "Hecate Strait",
+  "lat": 54.12182,
+  "lon": -132.34128,
+  "shoal": 0.2,
+  "atl03_granules": 0,
+  "atl24_granules": 37
+ },
+ {
+  "i": 9,
+  "region": "Chesterfield Inlet",
+  "lat": 64.0151,
+  "lon": -94.46671,
+  "shoal": 0.1,
+  "atl03_granules": 0,
+  "atl24_granules": 30
+ },
+ {
+  "i": 10,
+  "region": "Chesterfield Inlet",
+  "lat": 64.06683,
+  "lon": -94.63006,
+  "shoal": -1.3,
+  "atl03_granules": 0,
+  "atl24_granules": 31
+ },
+ {
+  "i": 11,
+  "region": "Strait of Belle Isle",
+  "lat": 51.60905,
+  "lon": -55.97719,
+  "shoal": -1.6,
+  "atl03_granules": 0,
+  "atl24_granules": 23
+ },
+ {
+  "i": 12,
+  "region": "Strait of Belle Isle",
+  "lat": 51.5971,
+  "lon": -56.00601,
+  "shoal": 0.0,
+  "atl03_granules": 0,
+  "atl24_granules": 23
+ },
+ {
+  "i": 13,
+  "region": "Rae Strait / King William Is.",
+  "lat": 69.39708,
+  "lon": -94.2663,
+  "shoal": 0.7,
+  "atl03_granules": 0,
+  "atl24_granules": 28
+ },
+ {
+  "i": 14,
+  "region": "Chesterfield Inlet",
+  "lat": 64.19155,
+  "lon": -94.7989,
+  "shoal": 0.9,
+  "atl03_granules": 0,
+  "atl24_granules": 25
+ },
+ {
+  "i": 15,
+  "region": "Strait of Belle Isle",
+  "lat": 51.41662,
+  "lon": -56.51253,
+  "shoal": -0.3,
+  "atl03_granules": 0,
+  "atl24_granules": 43
+ },
+ {
+  "i": 16,
+  "region": "Hecate Strait",
+  "lat": 54.12021,
+  "lon": -132.34952,
+  "shoal": -2.0,
+  "atl03_granules": 0,
+  "atl24_granules": 38
+ },
+ {
+  "i": 17,
+  "region": "Queen Maud Gulf",
+  "lat": 68.47056,
+  "lon": -100.33348,
+  "shoal": -2.5,
+  "atl03_granules": 0,
+  "atl24_granules": 26
+ },
+ {
+  "i": 18,
+  "region": "unnamed water near 68.5N 82.5W",
+  "lat": 68.47712,
+  "lon": -82.51629,
+  "shoal": 0.5,
+  "atl03_granules": 0,
+  "atl24_granules": 25
+ },
+ {
+  "i": 19,
+  "region": "unnamed water near 68.8N 81.2W",
+  "lat": 68.81438,
+  "lon": -81.22324,
+  "shoal": -1.2,
+  "atl03_granules": 0,
+  "atl24_granules": 21
+ },
+ {
+  "i": 20,
+  "region": "Strait of Belle Isle",
+  "lat": 51.40976,
+  "lon": -56.53037,
+  "shoal": -3.4,
+  "atl03_granules": 0,
+  "atl24_granules": 43
+ },
+ {
+  "i": 21,
+  "region": "unnamed water near 50.3N 64.2W",
+  "lat": 50.25109,
+  "lon": -64.15141,
+  "shoal": -1.2,
+  "atl03_granules": 0,
+  "atl24_granules": 36
+ },
+ {
+  "i": 22,
+  "region": "Gulf of St. Lawrence",
+  "lat": 46.4924,
+  "lon": -61.10821,
+  "shoal": 0.7,
+  "atl03_granules": 0,
+  "atl24_granules": 38
+ },
+ {
+  "i": 23,
+  "region": "Chesterfield Inlet",
+  "lat": 64.19514,
+  "lon": -94.79341,
+  "shoal": 1.0,
+  "atl03_granules": 0,
+  "atl24_granules": 25
+ },
+ {
+  "i": 24,
+  "region": "Hecate Strait",
+  "lat": 54.10974,
+  "lon": -132.43737,
+  "shoal": 0.7,
+  "atl03_granules": 0,
+  "atl24_granules": 28
+ },
+ {
+  "i": 25,
+  "region": "Strait of Belle Isle",
+  "lat": 50.89344,
+  "lon": -57.26063,
+  "shoal": 0.2,
+  "atl03_granules": 0,
+  "atl24_granules": 23
+ },
+ {
+  "i": 26,
+  "region": "unnamed water near 50.2N 63.4W",
+  "lat": 50.19482,
+  "lon": -63.36212,
+  "shoal": 0.6,
+  "atl03_granules": 0,
+  "atl24_granules": 35
+ },
+ {
+  "i": 27,
+  "region": "Gulf of St. Lawrence",
+  "lat": 46.48388,
+  "lon": -61.11233,
+  "shoal": 0.0,
+  "atl03_granules": 0,
+  "atl24_granules": 39
+ },
+ {
+  "i": 28,
+  "region": "unnamed water near 68.4N 82.4W",
+  "lat": 68.39125,
+  "lon": -82.39687,
+  "shoal": 0.3,
+  "atl03_granules": 0,
+  "atl24_granules": 24
+ },
+ {
+  "i": 29,
+  "region": "Strait of Belle Isle",
+  "lat": 49.94609,
+  "lon": -57.84264,
+  "shoal": -0.2,
+  "atl03_granules": 0,
+  "atl24_granules": 45
+ },
+ {
+  "i": 30,
+  "region": "Rae Strait / King William Is.",
+  "lat": 69.39708,
+  "lon": -94.24708,
+  "shoal": -0.1,
+  "atl03_granules": 0,
+  "atl24_granules": 44
+ },
+ {
+  "i": 31,
+  "region": "Scotian Shelf",
+  "lat": 44.05203,
+  "lon": -59.66554,
+  "shoal": 0.9,
+  "atl03_granules": 0,
+  "atl24_granules": 40
+ },
+ {
+  "i": 32,
+  "region": "Bay of Fundy",
+  "lat": 43.3876,
+  "lon": -65.78213,
+  "shoal": -3.7,
+  "atl03_granules": 0,
+  "atl24_granules": 33
+ },
+ {
+  "i": 33,
+  "region": "Amundsen Gulf",
+  "lat": 71.46725,
+  "lon": -121.63175,
+  "shoal": -3.9,
+  "atl03_granules": 0,
+  "atl24_granules": 45
+ },
+ {
+  "i": 34,
+  "region": "unnamed water near 68.4N 82.2W",
+  "lat": 68.42867,
+  "lon": -82.16489,
+  "shoal": -3.2,
+  "atl03_granules": 0,
+  "atl24_granules": 35
+ },
+ {
+  "i": 35,
+  "region": "Chesterfield Inlet",
+  "lat": 64.07584,
+  "lon": -94.63006,
+  "shoal": -0.4,
+  "atl03_granules": 0,
+  "atl24_granules": 31
+ },
+ {
+  "i": 36,
+  "region": "Strait of Belle Isle",
+  "lat": 51.44575,
+  "lon": -57.3677,
+  "shoal": 0.5,
+  "atl03_granules": 0,
+  "atl24_granules": 42
+ },
+ {
+  "i": 37,
+  "region": "unnamed water near 74.7N 91.2W",
+  "lat": 74.72643,
+  "lon": -91.20251,
+  "shoal": -0.3,
+  "atl03_granules": 0,
+  "atl24_granules": 37
+ },
+ {
+  "i": 38,
+  "region": "unnamed water near 50.2N 63.1W",
+  "lat": 50.24143,
+  "lon": -63.10406,
+  "shoal": 0.6,
+  "atl03_granules": 0,
+  "atl24_granules": 32
+ },
+ {
+  "i": 39,
+  "region": "unnamed water near 74.7N 91.2W",
+  "lat": 74.72969,
+  "lon": -91.208,
+  "shoal": 0.9,
+  "atl03_granules": 0,
+  "atl24_granules": 37
+ }
+]

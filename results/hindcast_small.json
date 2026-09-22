@@ -1,0 +1,296 @@
+[
+ {
+  "name": "Thamesborg",
+  "date": "2025-09-06",
+  "year": 2025,
+  "lon": -96.9,
+  "lat": 71.35,
+  "draft": 10.5,
+  "tsb": "M25C0241",
+  "note": "position from AIS/press (TSB report pending, no official coordinates yet); draft assumed for a laden Handysize",
+  "block": "b0027_0030.npz",
+  "pre_soundings": 1000495,
+  "all_soundings": 1000495,
+  "dist_to_pre_sounding_km": 0.79,
+  "in_fill_domain": true,
+  "site": {
+   "mean_depth_model": -67.72173751937989,
+   "shoal_depth_model": -38.265650408692714,
+   "shoal_sigma": 41.70152005126409,
+   "p_shoal_lt_draft": 0.270390602902266,
+   "mean_sigma": 49.715307503194516,
+   "nearest_pre_sounding": -115.0,
+   "gravity": -74.50126647949219
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 95.57846083953608,
+    "n_cells": 607526
+   },
+   "hazard_shoal_depth": {
+    "percentile": 5.008839127872716,
+    "n_cells": 607526
+   },
+   "mean_model_sigma": {
+    "percentile": 99.30817775700135,
+    "n_cells": 607526
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 89.73986298528787,
+    "n_cells": 607526
+   },
+   "gravity_shallowness": {
+    "percentile": 91.74471545250739,
+    "n_cells": 607526
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 94.96304400596968
+   }
+  }
+ },
+ {
+  "name": "Akademik Ioffe",
+  "date": "2018-08-24",
+  "year": 2018,
+  "lon": -91.34918,
+  "lat": 69.71738,
+  "draft": 5.9,
+  "tsb": "M18C0225",
+  "note": "TSB: 69\u00b043.043'N 091\u00b020.951'W; chart from 1984-92 reconnaissance, 2 km sounding spacing; struck at 14 m",
+  "block": "b0029_0032.npz",
+  "pre_soundings": 165454,
+  "all_soundings": 165454,
+  "dist_to_pre_sounding_km": 9.45,
+  "in_fill_domain": false,
+  "site": {
+   "mean_depth_model": -41.37120056152344,
+   "shoal_depth_model": -27.427488327026364,
+   "shoal_sigma": 26.043064117431644,
+   "p_shoal_lt_draft": 0.2619511964438097,
+   "mean_sigma": 23.163183212280273,
+   "nearest_pre_sounding": -72.3125,
+   "gravity": -39.11412811279297
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 92.54723298267133,
+    "n_cells": 159793
+   },
+   "hazard_shoal_depth": {
+    "percentile": 6.602291714906159,
+    "n_cells": 159793
+   },
+   "mean_model_sigma": {
+    "percentile": 76.4320089115293,
+    "n_cells": 159793
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 89.93385192092269,
+    "n_cells": 159793
+   },
+   "gravity_shallowness": {
+    "percentile": 93.41523095504809,
+    "n_cells": 159793
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 98.0117425104902
+   }
+  }
+ },
+ {
+  "name": "Clipper Adventurer",
+  "date": "2010-08-27",
+  "year": 2010,
+  "lon": -112.67167,
+  "lat": 67.97,
+  "draft": 4.6,
+  "tsb": "M10H0006",
+  "note": "TSB: 67\u00b058.2'N 112\u00b040.3'W; chart showed 29 m, least depth 3.3 m (2007 CCGS discovery never charted)",
+  "block": "b0031_0024.npz",
+  "pre_soundings": 16457,
+  "all_soundings": 338287,
+  "dist_to_pre_sounding_km": 12.41,
+  "in_fill_domain": false,
+  "site": {
+   "mean_depth_model": -69.99551391601562,
+   "shoal_depth_model": -39.76979064941406,
+   "shoal_sigma": 33.533565521240234,
+   "p_shoal_lt_draft": 0.17945639479324615,
+   "mean_sigma": 11.058195114135742,
+   "nearest_pre_sounding": -234.75,
+   "gravity": -73.19254302978516
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 83.31107701239995,
+    "n_cells": 120565
+   },
+   "hazard_shoal_depth": {
+    "percentile": 14.419607680504292,
+    "n_cells": 120565
+   },
+   "mean_model_sigma": {
+    "percentile": 10.629121220918176,
+    "n_cells": 120565
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 22.32073984987351,
+    "n_cells": 120565
+   },
+   "gravity_shallowness": {
+    "percentile": 80.28781155393357,
+    "n_cells": 120565
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 81.9006604829846
+   }
+  }
+ },
+ {
+  "name": "Hanseatic",
+  "date": "1996-08-29",
+  "year": 1996,
+  "lon": -97.53667,
+  "lat": 68.5625,
+  "draft": 4.8,
+  "tsb": "M96H0016",
+  "note": "TSB: 68\u00b033.75'N 097\u00b032.2'W, Simpson Strait; buoy displaced by ice",
+  "block": "b0030_0030.npz",
+  "pre_soundings": 148672,
+  "all_soundings": 421819,
+  "dist_to_pre_sounding_km": 0.34,
+  "in_fill_domain": true,
+  "site": {
+   "mean_depth_model": -1.6064498372784135,
+   "shoal_depth_model": 1.8665696745768128,
+   "shoal_sigma": 6.009697214379969,
+   "p_shoal_lt_draft": 0.9388262972187179,
+   "mean_sigma": 2.6827195326620217,
+   "nearest_pre_sounding": -2.873046875,
+   "gravity": -5.9400153160095215
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 98.70437102852584,
+    "n_cells": 36353
+   },
+   "hazard_shoal_depth": {
+    "percentile": 14.521497538029873,
+    "n_cells": 36353
+   },
+   "mean_model_sigma": {
+    "percentile": 17.519874563309767,
+    "n_cells": 36353
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 91.02412455643277,
+    "n_cells": 36353
+   },
+   "gravity_shallowness": {
+    "percentile": 96.7237917090749,
+    "n_cells": 36353
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 99.40902710497622
+   }
+  }
+ },
+ {
+  "name": "Nanny 2012",
+  "date": "2012-10-25",
+  "year": 2012,
+  "lon": -94.30667,
+  "lat": 63.99333,
+  "draft": 4.6,
+  "tsb": "M12H0012",
+  "note": "TSB: 63\u00b059.6'N 094\u00b018.4'W, Chesterfield Narrows; navigation error, hazard known",
+  "block": "b0034_0031.npz",
+  "pre_soundings": 12501,
+  "all_soundings": 25746,
+  "dist_to_pre_sounding_km": 6.35,
+  "in_fill_domain": true,
+  "site": {
+   "mean_depth_model": -0.06559435857532493,
+   "shoal_depth_model": 17.210494995117188,
+   "shoal_sigma": 15.239829063415527,
+   "p_shoal_lt_draft": 0.9533356557968532,
+   "mean_sigma": 9.153594970703125,
+   "nearest_pre_sounding": -3.8046875,
+   "gravity": 0.01825382001698017
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 95.31803919970662,
+    "n_cells": 24541
+   },
+   "hazard_shoal_depth": {
+    "percentile": 91.80554989609226,
+    "n_cells": 24541
+   },
+   "mean_model_sigma": {
+    "percentile": 74.02713825842467,
+    "n_cells": 24541
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 98.4026730777067,
+    "n_cells": 24541
+   },
+   "gravity_shallowness": {
+    "percentile": 0.3219102726050283,
+    "n_cells": 24541
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 95.87044014386025
+   }
+  }
+ },
+ {
+  "name": "Nanny 2014",
+  "date": "2014-10-14",
+  "year": 2014,
+  "lon": -91.52,
+  "lat": 63.62,
+  "draft": 6.9,
+  "tsb": "M14C0219",
+  "note": "TSB: 63\u00b037.2'N 091\u00b031.2'W, Chesterfield Inlet; helm-order error, hazard known",
+  "block": "b0035_0032.npz",
+  "pre_soundings": 36222,
+  "all_soundings": 185595,
+  "dist_to_pre_sounding_km": 0.0,
+  "in_fill_domain": true,
+  "site": {
+   "mean_depth_model": -2.3405590507538836,
+   "shoal_depth_model": -4.021167451856208,
+   "shoal_sigma": 19.52912527132186,
+   "p_shoal_lt_draft": 0.623324347342621,
+   "mean_sigma": 27.14726591464627,
+   "nearest_pre_sounding": -18.65625,
+   "gravity": -57.683258056640625
+  },
+  "rank": {
+   "hazard_p_shoal": {
+    "percentile": 78.78478771315292,
+    "n_cells": 51958
+   },
+   "hazard_shoal_depth": {
+    "percentile": 15.87051079718234,
+    "n_cells": 51958
+   },
+   "mean_model_sigma": {
+    "percentile": 98.01570499249394,
+    "n_cells": 51958
+   },
+   "nearest_sounding_shallowness": {
+    "percentile": 82.3145617614227,
+    "n_cells": 51958
+   },
+   "gravity_shallowness": {
+    "percentile": 15.46248893336926,
+    "n_cells": 51958
+   },
+   "hazard_p_shoal_whole_block": {
+    "percentile": 98.02979770169115
+   }
+  }
+ }
+]

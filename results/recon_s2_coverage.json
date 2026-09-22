@@ -1,0 +1,242 @@
+[
+ {
+  "i": 0,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 107
+ },
+ {
+  "i": 1,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 107
+ },
+ {
+  "i": 2,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 107
+ },
+ {
+  "i": 3,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 107
+ },
+ {
+  "i": 4,
+  "region": "Hecate Strait",
+  "s2_clear": 255,
+  "s2_clear_JAS": 84
+ },
+ {
+  "i": 5,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 107
+ },
+ {
+  "i": 6,
+  "region": "Beaufort Sea",
+  "s2_clear": 500,
+  "s2_clear_JAS": 160
+ },
+ {
+  "i": 7,
+  "region": "Hecate Strait",
+  "s2_clear": 169,
+  "s2_clear_JAS": 51
+ },
+ {
+  "i": 8,
+  "region": "Hecate Strait",
+  "s2_clear": 255,
+  "s2_clear_JAS": 84
+ },
+ {
+  "i": 9,
+  "region": "Chesterfield Inlet",
+  "s2_clear": 500,
+  "s2_clear_JAS": 142
+ },
+ {
+  "i": 10,
+  "region": "Chesterfield Inlet",
+  "s2_clear": 323,
+  "s2_clear_JAS": 86
+ },
+ {
+  "i": 11,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 99,
+  "s2_clear_JAS": 26
+ },
+ {
+  "i": 12,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 99,
+  "s2_clear_JAS": 26
+ },
+ {
+  "i": 13,
+  "region": "Rae Strait / King William Is.",
+  "s2_clear": 500,
+  "s2_clear_JAS": 241
+ },
+ {
+  "i": 14,
+  "region": "Chesterfield Inlet",
+  "s2_clear": 500,
+  "s2_clear_JAS": 145
+ },
+ {
+  "i": 15,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 174,
+  "s2_clear_JAS": 55
+ },
+ {
+  "i": 16,
+  "region": "Hecate Strait",
+  "s2_clear": 255,
+  "s2_clear_JAS": 84
+ },
+ {
+  "i": 17,
+  "region": "Queen Maud Gulf",
+  "s2_clear": 500,
+  "s2_clear_JAS": 179
+ },
+ {
+  "i": 18,
+  "region": "unnamed water near 68.5N 82.5W",
+  "s2_clear": 500,
+  "s2_clear_JAS": 221
+ },
+ {
+  "i": 19,
+  "region": "unnamed water near 68.8N 81.2W",
+  "s2_clear": 381,
+  "s2_clear_JAS": 110
+ },
+ {
+  "i": 20,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 174,
+  "s2_clear_JAS": 55
+ },
+ {
+  "i": 21,
+  "region": "unnamed water near 50.3N 64.2W",
+  "s2_clear": 137,
+  "s2_clear_JAS": 52
+ },
+ {
+  "i": 22,
+  "region": "Gulf of St. Lawrence",
+  "s2_clear": 92,
+  "s2_clear_JAS": 44
+ },
+ {
+  "i": 23,
+  "region": "Chesterfield Inlet",
+  "s2_clear": 500,
+  "s2_clear_JAS": 145
+ },
+ {
+  "i": 24,
+  "region": "Hecate Strait",
+  "s2_clear": 255,
+  "s2_clear_JAS": 84
+ },
+ {
+  "i": 25,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 198,
+  "s2_clear_JAS": 66
+ },
+ {
+  "i": 26,
+  "region": "unnamed water near 50.2N 63.4W",
+  "s2_clear": 275,
+  "s2_clear_JAS": 110
+ },
+ {
+  "i": 27,
+  "region": "Gulf of St. Lawrence",
+  "s2_clear": 92,
+  "s2_clear_JAS": 44
+ },
+ {
+  "i": 28,
+  "region": "unnamed water near 68.4N 82.4W",
+  "s2_clear": 500,
+  "s2_clear_JAS": 207
+ },
+ {
+  "i": 29,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 164,
+  "s2_clear_JAS": 72
+ },
+ {
+  "i": 30,
+  "region": "Rae Strait / King William Is.",
+  "s2_clear": 500,
+  "s2_clear_JAS": 241
+ },
+ {
+  "i": 31,
+  "region": "Scotian Shelf",
+  "s2_clear": 127,
+  "s2_clear_JAS": 41
+ },
+ {
+  "i": 32,
+  "region": "Bay of Fundy",
+  "s2_clear": 273,
+  "s2_clear_JAS": 108
+ },
+ {
+  "i": 33,
+  "region": "Amundsen Gulf",
+  "s2_clear": 412,
+  "s2_clear_JAS": 92
+ },
+ {
+  "i": 34,
+  "region": "unnamed water near 68.4N 82.2W",
+  "s2_clear": 500,
+  "s2_clear_JAS": 220
+ },
+ {
+  "i": 35,
+  "region": "Chesterfield Inlet",
+  "s2_clear": 323,
+  "s2_clear_JAS": 86
+ },
+ {
+  "i": 36,
+  "region": "Strait of Belle Isle",
+  "s2_clear": 402,
+  "s2_clear_JAS": 117
+ },
+ {
+  "i": 37,
+  "region": "unnamed water near 74.7N 91.2W",
+  "s2_clear": 500,
+  "s2_clear_JAS": 164
+ },
+ {
+  "i": 38,
+  "region": "unnamed water near 50.2N 63.1W",
+  "s2_clear": 275,
+  "s2_clear_JAS": 110
+ },
+ {
+  "i": 39,
+  "region": "unnamed water near 74.7N 91.2W",
+  "s2_clear": 500,
+  "s2_clear_JAS": 164
+ }
+]

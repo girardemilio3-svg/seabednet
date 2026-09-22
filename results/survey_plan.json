@@ -1,0 +1,102 @@
+[
+ {
+  "lat": 59.25,
+  "lon": -59.75,
+  "area_km2": 1055,
+  "mean_sigma": 52.6,
+  "peak_sigma": 109.7,
+  "burden": 55485,
+  "ship_days": 26.4,
+  "cost_CAD_M": 4.83
+ },
+ {
+  "lat": 59.25,
+  "lon": -60.25,
+  "area_km2": 740,
+  "mean_sigma": 55.3,
+  "peak_sigma": 116.6,
+  "burden": 40901,
+  "ship_days": 18.5,
+  "cost_CAD_M": 3.39
+ },
+ {
+  "lat": 59.75,
+  "lon": -60.25,
+  "area_km2": 559,
+  "mean_sigma": 54.7,
+  "peak_sigma": 102.8,
+  "burden": 30533,
+  "ship_days": 14.0,
+  "cost_CAD_M": 2.56
+ },
+ {
+  "lat": 58.75,
+  "lon": -59.25,
+  "area_km2": 895,
+  "mean_sigma": 26.1,
+  "peak_sigma": 133.8,
+  "burden": 23346,
+  "ship_days": 22.4,
+  "cost_CAD_M": 4.1
+ },
+ {
+  "lat": 59.25,
+  "lon": -59.25,
+  "area_km2": 724,
+  "mean_sigma": 30.2,
+  "peak_sigma": 78.2,
+  "burden": 21879,
+  "ship_days": 18.1,
+  "cost_CAD_M": 3.31
+ },
+ {
+  "lat": 59.75,
+  "lon": -60.75,
+  "area_km2": 993,
+  "mean_sigma": 17.1,
+  "peak_sigma": 62.2,
+  "burden": 16950,
+  "ship_days": 24.8,
+  "cost_CAD_M": 4.54
+ },
+ {
+  "lat": 60.75,
+  "lon": -65.25,
+  "area_km2": 617,
+  "mean_sigma": 23.9,
+  "peak_sigma": 75.0,
+  "burden": 14761,
+  "ship_days": 15.4,
+  "cost_CAD_M": 2.82
+ },
+ {
+  "lat": 60.75,
+  "lon": -64.75,
+  "area_km2": 783,
+  "mean_sigma": 17.1,
+  "peak_sigma": 84.7,
+  "burden": 13379,
+  "ship_days": 19.6,
+  "cost_CAD_M": 3.59
+ },
+ {
+  "lat": 58.75,
+  "lon": -58.75,
+  "area_km2": 1039,
+  "mean_sigma": 12.2,
+  "peak_sigma": 32.3,
+  "burden": 12673,
+  "ship_days": 26.0,
+  "cost_CAD_M": 4.76
+ },
+ {
+  "lat": 57.75,
+  "lon": -56.75,
+  "area_km2": 1348,
+  "mean_sigma": 8.7,
+  "peak_sigma": 33.1,
+  "burden": 11753,
+  "ship_days": 33.7,
+  "cost_CAD_M": 6.17
+ }
+]

@@ -1,0 +1,119 @@
+{
+ "map": "national_v6_out",
+ "n_cells": 1228981,
+ "n_unsounded": 574678,
+ "all_unsounded": {
+  "n": 574678,
+  "mae_model": 301.62,
+  "mae_nearest": 303.27,
+  "bias_model": -286.1,
+  "bias_nearest": -290.29,
+  "median_abs_model": 10.3,
+  "median_abs_nearest": 7.81
+ },
+ "sounded_cells_model_vs_csb": {
+  "n": 654303,
+  "mae_model": 60.78,
+  "mae_nearest": 60.78,
+  "bias_model": -48.26,
+  "bias_nearest": -48.26,
+  "median_abs_model": 4.57,
+  "median_abs_nearest": 4.57
+ },
+ "by_depth": {
+  "0-20": {
+   "n": 49964,
+   "mae_model": 1043.67,
+   "mae_nearest": 1040.53,
+   "bias_model": -1042.63,
+   "bias_nearest": -1038.64,
+   "median_abs_model": 900.8,
+   "median_abs_nearest": 876.5
+  },
+  "20-50": {
+   "n": 88860,
+   "mae_model": 282.01,
+   "mae_nearest": 286.92,
+   "bias_model": -276.62,
+   "bias_nearest": -284.06,
+   "median_abs_model": 8.0,
+   "median_abs_nearest": 6.12
+  },
+  "50-200": {
+   "n": 322224,
+   "mae_model": 125.43,
+   "mae_nearest": 126.68,
+   "bias_model": -114.85,
+   "bias_nearest": -120.29,
+   "median_abs_model": 7.82,
+   "median_abs_nearest": 6.38
+  },
+  "200-5000": {
+   "n": 113630,
+   "mae_model": 490.29,
+   "mae_nearest": 492.61,
+   "bias_model": -446.48,
+   "bias_nearest": -448.19,
+   "median_abs_model": 57.45,
+   "median_abs_nearest": 53.99
+  }
+ },
+ "by_distance_km": {
+  "0-1": {
+   "n": 434550,
+   "mae_model": 185.0,
+   "mae_nearest": 181.64,
+   "bias_model": -167.28,
+   "bias_nearest": -169.0,
+   "median_abs_model": 8.32,
+   "median_abs_nearest": 6.0
+  },
+  "1-3": {
+   "n": 83198,
+   "mae_model": 872.02,
+   "mae_nearest": 876.1,
+   "bias_model": -864.29,
+   "bias_nearest": -867.42,
+   "median_abs_model": 714.5,
+   "median_abs_nearest": 705.5
+  },
+  "3-6": {
+   "n": 21882,
+   "mae_model": 630.4,
+   "mae_nearest": 647.35,
+   "bias_model": -620.19,
+   "bias_nearest": -630.6,
+   "median_abs_model": 22.2,
+   "median_abs_nearest": 65.69
+  }
+ },
+ "by_region": {
+  "BC": {
+   "n": 369814,
+   "mae_model": 410.02,
+   "mae_nearest": 415.77,
+   "bias_model": -397.12,
+   "bias_nearest": -400.93,
+   "median_abs_model": 12.82,
+   "median_abs_nearest": 13.5
+  },
+  "Atlantic": {
+   "n": 134685,
+   "mae_model": 79.1,
+   "mae_nearest": 78.8,
+   "bias_model": -71.01,
+   "bias_nearest": -70.8,
+   "median_abs_model": 5.55,
+   "median_abs_nearest": 5.62
+  },
+  "Arctic_Hudson": {
+   "n": 12777,
+   "mae_model": 738.93,
+   "mae_nearest": 738.66,
+   "bias_model": -734.15,
+   "bias_nearest": -733.57,
+   "median_abs_model": 244.4,
+   "median_abs_nearest": 246.34
+  }
+ }
+}
